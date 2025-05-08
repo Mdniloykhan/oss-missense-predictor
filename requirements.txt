@@ -1,0 +1,8 @@
+pandas
+biopython
+scikit-learn
+tqdm
+numpy
+requests
+pyensembl
+pyvcf
